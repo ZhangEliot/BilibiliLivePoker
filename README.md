@@ -72,4 +72,4 @@
     使用Unity进行游戏开发，使用[NativeWebSocket For Unity](https://github.com/endel/NativeWebSocket) 插件进行弹幕信息的抓取，感谢插件作者！
   </li>
 </ul>
-<h2>最终解释权由<b>EliotZhang</b>（bilibili账号：<b>埃利奥特张</b>)保留。</h2>
+<h2>最终解释权由<b>ZhangEliot</b>（bilibili账号：<b>埃利奥特张</b>)保留。</h2>
