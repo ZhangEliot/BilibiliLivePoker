@@ -38,10 +38,10 @@
 <li>
 <h3>金币累计达到10000000即可私信主播领取b站月度大会员！</h3>
 </li>
-  </ul>
 <li>
 <h3>金币累计达到100000000即可私信主播领取b站年度大会员！</h3>
 </li>
+</ul>
 <li>
 <h2>游戏流程</h2>
 <p>游戏开始前，主播<strong>等待玩家加入</strong>，状态显示为&ldquo;主播正在xx..."</p>
@@ -75,6 +75,4 @@
 </ul>
 <h2>技术实现</h2>
 <p>使用Unity进行游戏开发，使用[bililive_dm](https://github.com/copyliu/bililive_dm/) 进行弹幕信息的抓取，感谢作者！</p>
-</li>
-</ul>
 <h2>最终解释权由<strong>ZhangEliot</strong>（bilibili账号：<strong>埃利奥特张</strong>)保留。</h2>
